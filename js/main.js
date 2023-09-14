@@ -8,4 +8,4 @@ function sumNumbers(num1, num2) {
 
 }
 
-console.log(sumNUmbers(firstNumber, secondNumber));
+console.log(sumNumbers(firstNumber, secondNumber));
